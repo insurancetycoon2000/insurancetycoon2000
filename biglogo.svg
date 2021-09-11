@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4000mm"
+   height="500mm"
+   viewBox="0 0 4000 500"
+   version="1.1"
+   id="svg846"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   sodipodi:docname="biglogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview848"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="209mm"
+     inkscape:zoom="0.046992494"
+     inkscape:cx="6820.2381"
+     inkscape:cy="-1223.5997"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs843" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:275.167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="553.97345"
+       y="335.70322"
+       id="text5353"><tspan
+         sodipodi:role="line"
+         id="tspan5351"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275.167px;font-family:'Latin Modern Roman Caps';-inkscape-font-specification:'Latin Modern Roman Caps Bold';stroke-width:0.264583"
+         x="553.97345"
+         y="335.70322">Insurance Tycoon 2000</tspan></text>
+    <path
+       style="fill:#5a0000;fill-opacity:1;stroke-width:0.792239"
+       d="m 22.147308,160.76015 v -38.54357 h 75.00001 74.999992 v 38.54357 38.54357 H 97.147318 22.147308 Z"
+       id="path12463" />
+    <path
+       style="fill:#960000;fill-opacity:1;stroke-width:0.792239"
+       d="m 173.20565,160.76015 v -38.54357 h 75.00001 74.99999 v 38.54357 38.54357 h -74.99999 -75.00001 z"
+       id="path12463-5" />
+    <path
+       style="fill:#960000;fill-opacity:1;stroke-width:0.792239"
+       d="m 22.147308,238.90563 v -38.54357 h 75.00001 74.999992 v 38.54357 38.54357 H 97.147318 22.147308 Z"
+       id="path12463-6" />
+    <path
+       style="fill:#b40000;fill-opacity:1;stroke-width:0.792239"
+       d="m 173.20565,238.90563 v -38.54357 h 75.00001 74.99999 v 38.54357 38.54357 h -74.99999 -75.00001 z"
+       id="path12463-2" />
+    <path
+       style="fill:#b40000;fill-opacity:1;stroke-width:0.792239"
+       d="m 324.26399,160.76015 v -38.54357 h 75.00001 74.99999 v 38.54357 38.54357 H 399.264 324.26399 Z"
+       id="path12463-9" />
+    <path
+       style="fill:#b40000;fill-opacity:1;stroke-width:0.792239"
+       d="m 22.147318,317.05111 v -38.54357 h 75 74.999992 v 38.54357 38.54357 h -74.999992 -75 z"
+       id="path12463-1" />
+  </g>
+</svg>

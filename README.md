@@ -1,2 +1,2 @@
-# insurancetycoon2000
+![basic-interface-filled](biglogo.svg)
 Insurance management simulation game
